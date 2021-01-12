@@ -1,0 +1,1 @@
+Ja man ir divās dažādas mapes ar datu failiem (spektriem), piem. C:\data\folder1 un C:\data\folder2,  kā var panākt lai Octave nolasa no katras mapes failu, un ja faila nosaukumi sakrīt, zīmē abus spektrus vienā attēlā?
