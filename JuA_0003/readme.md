@@ -1,0 +1,1 @@
+Kā interference var ietekmēt luminiscences spektrus?
